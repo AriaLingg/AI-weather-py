@@ -1,0 +1,5 @@
+agent:
+  name: WeatherAgent
+  description: An agent that provides weather forecasts based on user input.
+  run_module: main
+  entrypoint: main
